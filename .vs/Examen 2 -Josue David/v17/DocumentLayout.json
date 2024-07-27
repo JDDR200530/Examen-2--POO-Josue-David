@@ -35,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{AE7975F1-95E1-46E7-8EBF-D58FB7154159}|Examen 2 -Josue David\\Examen 2 -Josue David.csproj|solutionrelative:examen 2 -josue david\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Migrations\\20240727091923_ActualizacionCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Examen 2 -Josue David\\Migrations\\20240727091923_ActualizacionCliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE7975F1-95E1-46E7-8EBF-D58FB7154159}|Examen 2 -Josue David\\Examen 2 -Josue David.csproj|c:\\users\\josue david\\documents\\examen 2 -poo- josue david diaz\\examen 2 -josue david\\examen 2 -josue david\\seeddata\\cliente.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{AE7975F1-95E1-46E7-8EBF-D58FB7154159}|Examen 2 -Josue David\\Examen 2 -Josue David.csproj|solutionrelative:examen 2 -josue david\\seeddata\\cliente.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -69,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AE7975F1-95E1-46E7-8EBF-D58FB7154159}|Examen 2 -Josue David\\Examen 2 -Josue David.csproj|c:\\users\\josue david\\documents\\examen 2 -poo- josue david diaz\\examen 2 -josue david\\examen 2 -josue david\\database\\dto\\clientes\\clientecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AE7975F1-95E1-46E7-8EBF-D58FB7154159}|Examen 2 -Josue David\\Examen 2 -Josue David.csproj|solutionrelative:examen 2 -josue david\\database\\dto\\clientes\\clientecreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Migrations\\20240727085502_TablasDePrestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Examen 2 -Josue David\\Migrations\\20240727085502_TablasDePrestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE7975F1-95E1-46E7-8EBF-D58FB7154159}|Examen 2 -Josue David\\Examen 2 -Josue David.csproj|c:\\users\\josue david\\documents\\examen 2 -poo- josue david diaz\\examen 2 -josue david\\examen 2 -josue david\\database\\context\\gestiondetiendadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -111,26 +103,6 @@
       "RelativeMoniker": "D:0:0:{AE7975F1-95E1-46E7-8EBF-D58FB7154159}|Examen 2 -Josue David\\Examen 2 -Josue David.csproj|solutionrelative:examen 2 -josue david\\database\\dto\\plandepago\\plandepagodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Migrations\\20240727053504_NuevaBasedeDatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Examen 2 -Josue David\\Migrations\\20240727053504_NuevaBasedeDatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Migrations\\20240727053200_ActualizaciondeTodoelProyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Examen 2 -Josue David\\Migrations\\20240727053200_ActualizaciondeTodoelProyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Migrations\\20240727040820_ActualizacionTablaClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Examen 2 -Josue David\\Migrations\\20240727040820_ActualizacionTablaClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Migrations\\20240727040550_Actualizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Examen 2 -Josue David\\Migrations\\20240727040550_Actualizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Migrations\\20240727040332_TabladeClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Examen 2 -Josue David\\Migrations\\20240727040332_TabladeClientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JOSUE DAVID\\Documents\\Prueba Proyecto - POO\\Proyecto Poo\\Service\\ClientsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -140,6 +112,34 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Controllers\\ClienteControler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Examen 2 -Josue David\\Controllers\\ClienteControler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7975F1-95E1-46E7-8EBF-D58FB7154159}|Examen 2 -Josue David\\Examen 2 -Josue David.csproj|c:\\users\\josue david\\documents\\examen 2 -poo- josue david diaz\\examen 2 -josue david\\examen 2 -josue david\\migrations\\20240727091923_actualizacioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7975F1-95E1-46E7-8EBF-D58FB7154159}|Examen 2 -Josue David\\Examen 2 -Josue David.csproj|solutionrelative:examen 2 -josue david\\migrations\\20240727091923_actualizacioncliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7975F1-95E1-46E7-8EBF-D58FB7154159}|Examen 2 -Josue David\\Examen 2 -Josue David.csproj|c:\\users\\josue david\\documents\\examen 2 -poo- josue david diaz\\examen 2 -josue david\\examen 2 -josue david\\migrations\\20240727085502_tablasdeprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7975F1-95E1-46E7-8EBF-D58FB7154159}|Examen 2 -Josue David\\Examen 2 -Josue David.csproj|solutionrelative:examen 2 -josue david\\migrations\\20240727085502_tablasdeprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7975F1-95E1-46E7-8EBF-D58FB7154159}|Examen 2 -Josue David\\Examen 2 -Josue David.csproj|c:\\users\\josue david\\documents\\examen 2 -poo- josue david diaz\\examen 2 -josue david\\examen 2 -josue david\\migrations\\20240727053504_nuevabasededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7975F1-95E1-46E7-8EBF-D58FB7154159}|Examen 2 -Josue David\\Examen 2 -Josue David.csproj|solutionrelative:examen 2 -josue david\\migrations\\20240727053504_nuevabasededatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7975F1-95E1-46E7-8EBF-D58FB7154159}|Examen 2 -Josue David\\Examen 2 -Josue David.csproj|c:\\users\\josue david\\documents\\examen 2 -poo- josue david diaz\\examen 2 -josue david\\examen 2 -josue david\\migrations\\20240727053200_actualizaciondetodoelproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7975F1-95E1-46E7-8EBF-D58FB7154159}|Examen 2 -Josue David\\Examen 2 -Josue David.csproj|solutionrelative:examen 2 -josue david\\migrations\\20240727053200_actualizaciondetodoelproyecto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7975F1-95E1-46E7-8EBF-D58FB7154159}|Examen 2 -Josue David\\Examen 2 -Josue David.csproj|c:\\users\\josue david\\documents\\examen 2 -poo- josue david diaz\\examen 2 -josue david\\examen 2 -josue david\\migrations\\20240727040820_actualizaciontablaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7975F1-95E1-46E7-8EBF-D58FB7154159}|Examen 2 -Josue David\\Examen 2 -Josue David.csproj|solutionrelative:examen 2 -josue david\\migrations\\20240727040820_actualizaciontablaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7975F1-95E1-46E7-8EBF-D58FB7154159}|Examen 2 -Josue David\\Examen 2 -Josue David.csproj|c:\\users\\josue david\\documents\\examen 2 -poo- josue david diaz\\examen 2 -josue david\\examen 2 -josue david\\migrations\\20240727040550_actualizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7975F1-95E1-46E7-8EBF-D58FB7154159}|Examen 2 -Josue David\\Examen 2 -Josue David.csproj|solutionrelative:examen 2 -josue david\\migrations\\20240727040550_actualizacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7975F1-95E1-46E7-8EBF-D58FB7154159}|Examen 2 -Josue David\\Examen 2 -Josue David.csproj|c:\\users\\josue david\\documents\\examen 2 -poo- josue david diaz\\examen 2 -josue david\\examen 2 -josue david\\migrations\\20240727040332_tabladeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7975F1-95E1-46E7-8EBF-D58FB7154159}|Examen 2 -Josue David\\Examen 2 -Josue David.csproj|solutionrelative:examen 2 -josue david\\migrations\\20240727040332_tabladeclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -149,21 +149,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IPlandePagoService.cs",
-              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Service\\Interface\\IPlandePagoService.cs",
-              "RelativeDocumentMoniker": "Examen 2 -Josue David\\Service\\Interface\\IPlandePagoService.cs",
-              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Service\\Interface\\IPlandePagoService.cs",
-              "RelativeToolTip": "Examen 2 -Josue David\\Service\\Interface\\IPlandePagoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T09:26:47.79Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -174,8 +161,7 @@
               "RelativeToolTip": "Examen 2 -Josue David\\Program.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAABAAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T03:19:13.214Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T03:19:13.214Z"
             },
             {
               "$type": "Document",
@@ -185,10 +171,22 @@
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\Service\\PlandePagoService.cs",
               "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Service\\PlandePagoService.cs",
               "RelativeToolTip": "Examen 2 -Josue David\\Service\\PlandePagoService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-27T06:36:08.901Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPlandePagoService.cs",
+              "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Service\\Interface\\IPlandePagoService.cs",
+              "RelativeDocumentMoniker": "Examen 2 -Josue David\\Service\\Interface\\IPlandePagoService.cs",
+              "ToolTip": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Service\\Interface\\IPlandePagoService.cs",
+              "RelativeToolTip": "Examen 2 -Josue David\\Service\\Interface\\IPlandePagoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T09:26:47.79Z"
             },
             {
               "$type": "Document",
@@ -200,8 +198,7 @@
               "RelativeToolTip": "Examen 2 -Josue David\\Service\\ClienteService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T23:58:22.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T23:58:22.917Z"
             },
             {
               "$type": "Document",
@@ -213,8 +210,7 @@
               "RelativeToolTip": "Examen 2 -Josue David\\DataBase\\DTO\\Prestamo\\PrestamoDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T05:38:17.576Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T05:38:17.576Z"
             },
             {
               "$type": "Document",
@@ -226,12 +222,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\Entity\\PrestamoEntity.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T23:37:25.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T23:37:25.513Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "PrestamoService.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Service\\PrestamoService.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\Service\\PrestamoService.cs",
@@ -239,8 +234,7 @@
               "RelativeToolTip": "Examen 2 -Josue David\\Service\\PrestamoService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T07:04:41.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T07:04:41.154Z"
             },
             {
               "$type": "Document",
@@ -252,12 +246,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\Controllers\\PrestamoController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T08:24:05.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T08:24:05.289Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Prestamos.json",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\SeedData\\Prestamos.json",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\SeedData\\Prestamos.json",
@@ -265,12 +258,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\SeedData\\Prestamos.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-27T07:13:35.792Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T07:13:35.792Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "GestionDeTiendaSeeder.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\DataBase\\Context\\GestionDeTiendaSeeder.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\DataBase\\Context\\GestionDeTiendaSeeder.cs",
@@ -278,12 +270,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\DataBase\\Context\\GestionDeTiendaSeeder.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAqwB8AAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T00:22:37.226Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T00:22:37.226Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Cliente.json",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\SeedData\\Cliente.json",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\SeedData\\Cliente.json",
@@ -291,12 +282,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\SeedData\\Cliente.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-27T03:13:59.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T03:13:59.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 28,
               "Title": "20240727091923_ActualizacionCliente.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Migrations\\20240727091923_ActualizacionCliente.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\Migrations\\20240727091923_ActualizacionCliente.cs",
@@ -304,8 +294,7 @@
               "RelativeToolTip": "Examen 2 -Josue David\\Migrations\\20240727091923_ActualizacionCliente.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T09:19:23.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T09:19:23.306Z"
             },
             {
               "$type": "Document",
@@ -317,12 +306,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\Startup.cs",
               "ViewState": "AQIAACsAAAAAAAAAAAAYwCAAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T22:13:00.541Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T22:13:00.541Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "ClienteEntity.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Entity\\ClienteEntity.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\Entity\\ClienteEntity.cs",
@@ -330,12 +318,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\Entity\\ClienteEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T23:22:43.218Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T23:22:43.218Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "ClienteDto.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\DataBase\\DTO\\Clientes\\ClienteDto.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\DataBase\\DTO\\Clientes\\ClienteDto.cs",
@@ -343,12 +330,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\DataBase\\DTO\\Clientes\\ClienteDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T00:21:51.461Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T00:21:51.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "ResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\DataBase\\DTO\\Common\\ResponseDto.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\DataBase\\DTO\\Common\\ResponseDto.cs",
@@ -356,12 +342,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\DataBase\\DTO\\Common\\ResponseDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T00:58:48.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T00:58:48.971Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "ClienteCreate.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\DataBase\\DTO\\Clientes\\ClienteCreate.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\DataBase\\DTO\\Clientes\\ClienteCreate.cs",
@@ -369,12 +354,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\DataBase\\DTO\\Clientes\\ClienteCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T00:31:21.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T00:31:21.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 29,
               "Title": "20240727085502_TablasDePrestamo.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Migrations\\20240727085502_TablasDePrestamo.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\Migrations\\20240727085502_TablasDePrestamo.cs",
@@ -382,12 +366,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\Migrations\\20240727085502_TablasDePrestamo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T08:55:02.587Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T08:55:02.587Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 16,
               "Title": "GestionDeTiendaDbContext.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\DataBase\\Context\\GestionDeTiendaDbContext.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\DataBase\\Context\\GestionDeTiendaDbContext.cs",
@@ -395,12 +378,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\DataBase\\Context\\GestionDeTiendaDbContext.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAYwBcAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T03:22:50.737Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T03:22:50.737Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 18,
               "Title": "AuthService.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Service\\AuthService.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\Service\\AuthService.cs",
@@ -408,12 +390,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\Service\\AuthService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T06:36:09.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T06:36:09.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 17,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Service\\Interface\\IAuthService.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\Service\\Interface\\IAuthService.cs",
@@ -421,12 +402,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\Service\\Interface\\IAuthService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T06:21:08.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T06:21:08.527Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 19,
               "Title": "PrestamoCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\DataBase\\DTO\\Prestamo\\PrestamoCreateDto.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\DataBase\\DTO\\Prestamo\\PrestamoCreateDto.cs",
@@ -434,12 +414,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\DataBase\\DTO\\Prestamo\\PrestamoCreateDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T05:42:25.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T05:42:25.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 20,
               "Title": "IPrestamoService.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Service\\Interface\\IPrestamoService.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\Service\\Interface\\IPrestamoService.cs",
@@ -447,12 +426,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\Service\\Interface\\IPrestamoService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T07:04:12.919Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T07:04:12.919Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 21,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\Controllers\\ClienteController.cs",
@@ -460,12 +438,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\Controllers\\ClienteController.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAAACQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T04:22:54.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T04:22:54.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 23,
               "Title": "AutoMapperProfile.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Helper\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\Helper\\AutoMapperProfile.cs",
@@ -473,12 +450,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\Helper\\AutoMapperProfile.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAswBsAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T00:29:32.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T00:29:32.996Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 22,
               "Title": "IClienteServices.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Service\\Interface\\IClienteServices.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\Service\\Interface\\IClienteServices.cs",
@@ -486,12 +462,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\Service\\Interface\\IClienteServices.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-26T23:58:04.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-26T23:58:04.697Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 24,
               "Title": "PlandePagoDto.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\DataBase\\DTO\\PlandePago\\PlandePagoDto.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\DataBase\\DTO\\PlandePago\\PlandePagoDto.cs",
@@ -499,12 +474,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\DataBase\\DTO\\PlandePago\\PlandePagoDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T05:52:32.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T05:52:32.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "20240727053504_NuevaBasedeDatos.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Migrations\\20240727053504_NuevaBasedeDatos.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\Migrations\\20240727053504_NuevaBasedeDatos.cs",
@@ -512,12 +486,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\Migrations\\20240727053504_NuevaBasedeDatos.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T05:35:04.619Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T05:35:04.619Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 31,
               "Title": "20240727053200_ActualizaciondeTodoelProyecto.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Migrations\\20240727053200_ActualizaciondeTodoelProyecto.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\Migrations\\20240727053200_ActualizaciondeTodoelProyecto.cs",
@@ -525,12 +498,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\Migrations\\20240727053200_ActualizaciondeTodoelProyecto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T05:32:00.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T05:32:00.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 32,
               "Title": "20240727040820_ActualizacionTablaClientes.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Migrations\\20240727040820_ActualizacionTablaClientes.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\Migrations\\20240727040820_ActualizacionTablaClientes.cs",
@@ -538,12 +510,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\Migrations\\20240727040820_ActualizacionTablaClientes.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T04:08:20.629Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T04:08:20.629Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 33,
               "Title": "20240727040550_Actualizacion.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Migrations\\20240727040550_Actualizacion.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\Migrations\\20240727040550_Actualizacion.cs",
@@ -551,12 +522,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\Migrations\\20240727040550_Actualizacion.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T04:05:50.685Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T04:05:50.685Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 34,
               "Title": "20240727040332_TabladeClientes.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Migrations\\20240727040332_TabladeClientes.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\Migrations\\20240727040332_TabladeClientes.cs",
@@ -564,12 +534,11 @@
               "RelativeToolTip": "Examen 2 -Josue David\\Migrations\\20240727040332_TabladeClientes.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-27T04:03:32.382Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-27T04:03:32.382Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 27,
               "Title": "ClienteControler.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Controllers\\ClienteControler.cs",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\Controllers\\ClienteControler.cs",
@@ -581,7 +550,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 25,
               "Title": "ClientsService.cs",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Prueba Proyecto - POO\\Proyecto Poo\\Service\\ClientsService.cs",
               "RelativeDocumentMoniker": "..\\..\\Prueba Proyecto - POO\\Proyecto Poo\\Service\\ClientsService.cs",
@@ -593,7 +562,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 26,
               "Title": "Examen 2 -Josue David.csproj",
               "DocumentMoniker": "C:\\Users\\JOSUE DAVID\\Documents\\Examen 2 -POO- Josue David Diaz\\Examen 2 -Josue David\\Examen 2 -Josue David\\Examen 2 -Josue David.csproj",
               "RelativeDocumentMoniker": "Examen 2 -Josue David\\Examen 2 -Josue David.csproj",
