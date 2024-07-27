@@ -1,0 +1,10 @@
+[
+  {
+    "ClienteId": "543aa099-c9a3-4129-a29b-92c34e4c4828",
+    "LoanId": "543aa099-c9a3-4129-a29b-92c34e4c5467",
+    "Loan": 15000,
+    "InterestRate": 12,
+    "Commission": 3,
+    "LoanTime": 12
+  },
+]
